@@ -113,6 +113,19 @@ final public class ChangeBlockBreakListener {
         return (type.equals(BlockTypes.IRON_ORE) ||
                 type.equals(BlockTypes.GOLD_ORE) ||
                 type.equals(BlockTypes.DIAMOND_ORE) ||
+                type.equals(BlockTypes.EMERALD_ORE) ||
+                type.equals(BlockTypes.THUNDERSTONE_ORE) ||
+                type.equals(BlockTypes.LEAFSTONE_ORE) ||
+                type.equals(BlockTypes.WATERSTONE_ORE) ||
+                type.equals(BlockTypes.FIRESTONE_ORE) ||
+                type.equals(BlockTypes.DAWNDUSKSTONE_ORE) ||
+                type.equals(BlockTypes.BAUXITE) ||
+                type.equals(BlockTypes.SUN_STONE_ORE) ||
+                type.equals(BlockTypes.RUBYORE) ||
+                type.equals(BlockTypes.SAPPHIREORE) ||
+                type.equals(BlockTypes.AMETHYSTORE) ||
+                type.equals(BlockTypes.CRYSTALORE) ||
+                type.equals(BlockTypes.SILICONORE) ||
                 type.equals(BlockTypes.LAPIS_ORE));
     }
 
